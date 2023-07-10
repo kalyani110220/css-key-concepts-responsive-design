@@ -25,21 +25,21 @@ const cats= [
         "species" : "Scaredy Cat",
         "favFoods" : ["not cucumbers!"],
         "birthYear" : 2008,
-        "photo" : "https://i.ytimg.com/vi/eX2qFMC8cFo/maxresdefault.jpg"
+        "photo" : "https://i.pinimg.com/originals/0f/e8/51/0fe851cb1ffe2024d9e2cc60d42fe343.jpg"
     },
     {
         "name" : "Meowsalot",
         "species" : "Cat",
         "favFoods" : ["tuna", "catnip", "celery"],
         "birthYear" : 2012,
-        "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+        "photo" : "https://i.pinimg.com/originals/e2/74/f4/e274f4b726b9d5750f995a081152d70b.jpg"
     },
     {
         "name" : "Cindy Clawford",
         "species" : "Cat",
         "favFoods" : ["mice"],
         "birthYear" : 2012,
-        "photo" : "https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png"
+        "photo" : "https://i.pinimg.com/originals/d4/ba/08/d4ba083168edb11b6268a819bfb52ed1.jpg"
     },
     {
         "name" : "Katy Purry",
@@ -60,7 +60,7 @@ const cats= [
         "species" : "Bird?",
         "favFoods" : ["your soul"],
         "birthYear" : 2020,
-        "photo" : "https://www.top13.net/wp-content/uploads/2015/10/perfectly-timed-cat-photos-funny-cover.jpg"
+        "photo" : "https://i.pinimg.com/originals/31/10/39/31103931702ec85fd407a7d8b239f30d.jpg"
     },
     {
         "name" : "El Taco",
@@ -76,12 +76,13 @@ const cats= [
         "birthYear" : 2003,
         "photo" : "https://i.pinimg.com/736x/1b/ef/b5/1befb5723f54627768e1d77642ca4d45.jpg"
     },
+    
     {
         "name" : "BoopySnoot",
         "species" : "Tiny Cat",
         "favFoods" : ["milk"],
         "birthYear" : 2021,
-        "photo" : "https://i.ytimg.com/vi/ZKBlMWI6nO4/maxresdefault.jpg"
+        "photo" : "https://i.pinimg.com/originals/c2/f3/22/c2f322c2662884f8542ab3d38bbdb1a7.jpg"
     },
     {
         "name" : "Tiger",
